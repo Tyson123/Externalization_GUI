@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pics/bg_train_3_layers_large_alternatives.gif</file>
+        <file>pics/login-icon.png</file>
+    </qresource>
+</RCC>
